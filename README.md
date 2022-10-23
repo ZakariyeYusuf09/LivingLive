@@ -1,2 +1,3 @@
 # LivingLive
-live Preview: https://suny-side-landing.netlify.app/
+live Preview: https://livinglive.netlify.app/
+
